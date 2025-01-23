@@ -66,7 +66,7 @@ function generatePatternString(n) {
     return result;
 }
 
-const max = 35;
+const max = 50;
 const min = 5;
 let count = min;
 setInterval(() => {
